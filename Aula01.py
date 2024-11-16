@@ -1,5 +1,5 @@
-largura = 10
-altura = 5
+largura = input("digite a Largura: ")
+altura = input("digite a Altura: ")
 
 area = largura * altura
 
